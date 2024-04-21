@@ -5,9 +5,7 @@
     "dev": "next dev",
     "prettier": "prettier --write --ignore-unknown .",
     "prettier:check": "prettier --check --ignore-unknown .",
-    "start": "next start",
-    "vercel-build": "next build",
-    "prepare": "echo \"No additional preparation steps required.\""
+    "start": "next start"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
